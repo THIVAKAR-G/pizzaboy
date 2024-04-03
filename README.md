@@ -1,7 +1,7 @@
 🍽️ Pizza Boy 
 
 📝 Description:
-     This project is a frontend-only website for Pizza Boy, designed to provide visitors with information about the restaurant, its menu, and services. It offers a responsive design for optimal viewing on all devices.
+     This project is a landing page for Pizza Boy, designed to provide visitors with information about the restaurant, its menu, and services. It offers a responsive design for optimal viewing on all devices.
 
 🚀 Features:
 - Responsive design for optimal viewing on all devices
